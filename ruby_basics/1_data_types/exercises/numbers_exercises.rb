@@ -1,5 +1,5 @@
 def add(a, b)
-  # return the result of adding a and b
+  # return the result of adding a and
   a + b
 end
 
